@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Text, View, Image, StyleSheet, Dimensions, BackHandler } from 'react-native'
+import { Text, View, Image, StyleSheet, Dimensions } from 'react-native'
 
 export default class ImageDetails extends Component {
 
